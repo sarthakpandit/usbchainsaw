@@ -1,0 +1,1 @@
+The next iteration of the popular USB Switchblade/Hacksaw/Pocketknife, except with a twist ... cross-platform and without requiring U3 or Autorun to be enabled!
